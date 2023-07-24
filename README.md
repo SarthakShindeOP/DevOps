@@ -1,3 +1,3 @@
 # DevOps
 devops
-:happy:
+😎
